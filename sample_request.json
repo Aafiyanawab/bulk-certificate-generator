@@ -1,0 +1,10 @@
+{
+  "event_name": "Python Backend Bootcamp 2026",
+  "issued_by": "Tech Academy",
+  "issue_date": "2026-10-10",
+  "recipients": [
+    {"name": "Aafiya Khan", "email": "aafiya@example.com", "achievement": "for completing the course with Distinction"},
+    {"name": "Rahul Sharma", "email": "rahul@example.com"},
+    {"name": "", "email": "not-an-email"}
+  ]
+}
